@@ -26,8 +26,15 @@ php -q /home/netswitch/public_html/cronsjob/get-status-sosmed.php
 php -q /home/netswitch/public_html/cronsjob/get-status-top-up.php
 
 Login Dashboard Admin Default :
-* Username : admin
+* Username : netflazz
 * Password : netflazz
 * Pin      : 123456
 
 Demo (until 25/12/2023) : http://sosmed.me
+Demo acc login :
+* Username : admin
+* Password : netflazz
+* Pin : 123456
+
+NOTE : TIDAK DAPAT MELAKUKAN TRANSAKSI DI WEB DEMO. JIKA INGIN MEMBUATNYA UNTUK KEPERLUAN UMUM SILAHKAN BERKUNJUNG KE WEBSITE NETFLAZZ DI BROWSER KAMU
+* saya hanya membagikan penggunaan bukan sebagai pengelola aslinya.
